@@ -3,13 +3,13 @@
 # iuliia smeltsova
 
 ## contact
-**email:**
+- **email:**
 bezrejenka@gmail.com
-**phone:**
+- **phone:**
 +79879590567
-**telegram:**
+- **telegram:**
 @ysmlv
-**discord**
+- **discord**
 iuliia(@yynitoto)
 
 
