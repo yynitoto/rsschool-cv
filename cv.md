@@ -4,11 +4,7 @@
 
 ## contact
 - **email:**
-bezrejenka@gmail.com
-- **phone:**
-+79879590567
-- **telegram:**
-@ysmlv
+nitotoyy@gmail.com
 - **discord**
 iuliia(@yynitoto)
 
