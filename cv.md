@@ -24,6 +24,12 @@ I've dabbled in front-end development before on platforms like Hexlet, HTML Acad
 - figma
 
 ## code
+```
+function multiply(a, b){
+ return a * b
+}
+
+```
 
 ## experience
  [project Sedona: HTML,CSS](https://github.com/yynitoto/1944279-sedona-33)
