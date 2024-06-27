@@ -1,4 +1,5 @@
 
+![photo of iuliia smeltsova](/img/photo.jpg)
 # iuliia smeltsova
 
 ## contact
